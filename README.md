@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kangune</h1>
-<h3 align="center">A graduate student at Purdue University interested in Data Science and Machine Learning</h3>
+<h3 align="center">Master's graduate from Purdue University, interested in Data Science and Machine Learning</h3>
 
 <img height=300 width=400 align="right" src="https://miro.medium.com/v2/resize:fit:1400/0*oHwW14arOJOAy7Pm.gif">
 
